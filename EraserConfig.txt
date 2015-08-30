@@ -1,0 +1,3 @@
+erasedJobID=none
+directories: equals#startsWith#contains#endsWith#NOTStartsWith#NOTContains#NOTEndsWith (dont use ':', '!'-none)
+!#!#badanie#!#!#!#!
